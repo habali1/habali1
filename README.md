@@ -1,6 +1,6 @@
 # About Me
 
-Hi it's Huseyin. I'm a highly motivated and versatile **Computer Science** and **Information Systems Engineering** student currently enrolled in a dual diploma program at **Binghamton University** and **Istanbul Technical University (ITU)**. With a passion for problem-solving and a foundation in both **C/C++** and **Python**, I've developed a diverse portfolio of projects that demonstrate my ability to tackle complex challenges, whether it’s in software development, data structures, algorithms, or low-level system programming.
+Hi it's Huseyin. I'm a highly motivated and versatile **Computer Science** and **Information Systems Engineering** junior student currently enrolled in a dual diploma program at **Binghamton University** and **Istanbul Technical University (ITU)**. With a passion for problem-solving and a foundation in both **C/C++** and **Python**, I've developed a diverse portfolio of projects that demonstrate my ability to tackle complex challenges, whether it’s in software development, data structures, algorithms, or low-level system programming.
 - You can easily access to my repositories via clicking icons.
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://github.com/habali1/Python-Projects)
