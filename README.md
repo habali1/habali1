@@ -9,13 +9,15 @@ Hi it's Huseyin. I'm a highly motivated and versatile **Computer Science** and *
 - **Data Structures & Algorithms**: Experience in implementing and optimizing various data structures, such as linked lists, trees, heaps, and custom floating-point representations.
 - **Systems Programming**: Solid understanding of memory management, buffer overflow exploits, and control flow analysis.
 - **Software Development**: Developed command-line tools, games, and automated testing frameworks.
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://github.com/habali1/Python-Projects)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+[![Assembly](https://img.shields.io/badge/-Assembly-525252?logo=gnu&logoColor=white&style=for-the-badge)![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)](https://github.com/habali1/C-x86Assembly-Projects)
 
 
-## What I'm currently doing
+## What I'm currently on
 
 I'm focused on expanding my knowladge about web designing, learning **HTML**, **CSS** and **JS**.
+Scroll down to see my C/C++/Assembly/Python projects. 
 
 ## What I'm Looking For
 
