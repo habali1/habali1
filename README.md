@@ -29,5 +29,5 @@ I am seeking opportunities where I can apply my technical skills in a collaborat
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/huseyin-abali/)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?logo=Medium&logoColor=white&style=for-the-badge)](https://medium.com/@Huseyin Abali)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?logo=Medium&logoColor=white&style=for-the-badge)](https://medium.com/@hus.abali01)
 
