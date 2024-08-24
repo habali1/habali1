@@ -1,6 +1,10 @@
 # About Me
 
 Hi it's Huseyin. I'm a highly motivated and versatile **Computer Science** and **Information Systems Engineering** student currently enrolled in a dual diploma program at **Binghamton University** and **Istanbul Technical University (ITU)**. With a passion for problem-solving and a foundation in both **C/C++** and **Python**, I've developed a diverse portfolio of projects that demonstrate my ability to tackle complex challenges, whether it’s in software development, data structures, algorithms, or low-level system programming.
+You can easily access to my repositories via clicking icons.
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://github.com/habali1/Python-Projects)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+[![Assembly](https://img.shields.io/badge/-Assembly-525252?logo=gnu&logoColor=white&style=for-the-badge)![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)](https://github.com/habali1/C-x86Assembly-Projects)
 
 ## What I Bring to the Table
 
@@ -10,9 +14,7 @@ Hi it's Huseyin. I'm a highly motivated and versatile **Computer Science** and *
 - **Systems Programming**: Solid understanding of memory management, buffer overflow exploits, and control flow analysis.
 - **Software Development**: Developed command-line tools, games, and automated testing frameworks.
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://github.com/habali1/Python-Projects)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
-[![Assembly](https://img.shields.io/badge/-Assembly-525252?logo=gnu&logoColor=white&style=for-the-badge)![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)](https://github.com/habali1/C-x86Assembly-Projects)
+
 
 
 ## What I'm currently on
