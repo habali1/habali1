@@ -22,9 +22,6 @@ Hi, I'm Huseyin — a Spring 2026 Computer Science and Information Systems Engin
 
 Currently seeking full-time Software Engineering, ML, or Data roles. Open to work in the US under F-1 OPT (no sponsorship required for 3 years). 
 
-## What I'm Looking For
-
-I am seeking opportunities where I can apply my technical skills in a collaborative environment, contribute to challenging projects, and continue to grow as a software developer. I am particularly interested in roles involving software development, systems programming, data structures and web design. 
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/huseyin-abali/)
