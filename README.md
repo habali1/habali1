@@ -1,6 +1,6 @@
 # About Me
 
-Hi I'm Huseyin. I'm a highly motivated and versatile **Computer Science** and **Information Systems Engineering** junior student currently enrolled in a dual diploma program at **Binghamton University** and **Istanbul Technical University (ITU)**. With a passion for problem-solving and a foundation in both **C/C++** and **Python**, I've developed a diverse portfolio of projects that demonstrate my ability to tackle complex challenges, whether it’s in software development, data structures, algorithms, or low-level system programming.
+Hi, I'm Huseyin — a Spring 2026 Computer Science and Information Systems Engineering dual graduate from Binghamton University and Istanbul Technical University (ITU). I build across the full stack: web apps, ML models, mobile applications, and enterprise BI systems. My recent work includes a full-stack e-commerce platform (Jimmy's Place), ML-based species identification, and cybersecurity projects in malware analysis and reverse engineering.
 - You can easily access to my repositories via clicking icons.
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://github.com/habali1/Python-Projects)
@@ -9,19 +9,18 @@ Hi I'm Huseyin. I'm a highly motivated and versatile **Computer Science** and **
 
 ## What I Bring to the Table
 
-- **Programming Languages**: Proficient in C, C++, Python, and familiar with x86 assembly.
-- **Problem-Solving**: Strong analytical skills with the ability to break down complex problems into manageable parts.
-- **Data Structures & Algorithms**: Experience in implementing and optimizing various data structures, such as linked lists, trees, heaps, and custom floating-point representations.
-- **Systems Programming**: Solid understanding of memory management, buffer overflow exploits, and control flow analysis.
-- **Software Development**: Developed command-line tools, games, and automated testing frameworks.
+- **Languages:** Python, C, C++, Java, JavaScript, SQL, Bash
+- **ML/Data:** PyTorch, scikit-learn, CNNs, ONNX, Oracle BI/OBIEE 12c
+- **Web/Mobile:** React Native, Flask, REST APIs, HTML/CSS/JS, PHP/MySQL
+- **Cybersecurity:** JADX, apktool, Wireshark, static & dynamic malware analysis, SQL injection
+- **Systems/Tools:** Linux, Git, WebLogic, LaTeX, DBeaver
 
 
 
 
 ## What I'm currently on
 
-I'm focused on expanding my knowladge about web designing, learning **HTML**, **CSS** and **JS**.
-Scroll down to see my C/C++/Assembly/Python projects. 
+Currently seeking full-time Software Engineering, ML, or Data roles. Open to work in the US under F-1 OPT (no sponsorship required for 3 years). 
 
 ## What I'm Looking For
 
